@@ -264,10 +264,14 @@ Edit `src/utils/validation.js` to change validation rules and error messages.
 
 Modify `src/utils/sampleData.js` to customize initial sample letters.
 
+# 👨‍💻 Authors
+- ***❤ABDUL SABOOR***
+  ---
+
 ## License
 
-This project is open source and available for personal and commercial use.
+``` This project is open source and available for personal and commercial use.
 
 ## Support
 
-For issues or questions, please check the browser console for error messages and ensure all dependencies are properly installed.
+``` For issues or questions, please check the browser console for error messages and ensure all dependencies are properly installed.
